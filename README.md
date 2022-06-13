@@ -9,6 +9,22 @@ Utilizes [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://
 
 A `schema.sql` file in the `db` folder is used to create the SQL database with SQL shell commands. Environment variables are used for sensitive data storage.
 
+## Installation
+
+Program requires installation of the followind dependencies:
+
+```md
+npm install mysql2
+```
+
+```md
+npm install sequelize
+```
+
+```md
+npm install dotenv
+```
+
 ## User Story
 
 ```md
